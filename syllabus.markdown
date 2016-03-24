@@ -1,25 +1,24 @@
-Web Development with Open Data
+# Web Development with Open Data
 
-Spring 2016 Semester
+**Spring 2016 Semester**
 
-Interative Telecommunications Program, New York University
+**Interative Telecommunications Program, New York University**
 
+**Instructor:** James Cropcho (james.cropcho@nyu.edu)
 
-Instructor: James Cropcho (james.cropcho@nyu.edu)
+**Class Session Times:** Thursdays from 12:10pm–2:40pm
 
-Class session times: Thursdays from 12:10pm–2:40pm
+**Office Hours:** Thursdays from 3:30p-5:30p and by appointment
 
-Office Hours: Thursdays from 3:30p-5:30p and by appointment
+**Listserv:** https://groups.google.com/a/itp.nyu.edu/forum/#!forum/wdod-sp2016
 
-Listserv: https://groups.google.com/a/itp.nyu.edu/forum/#!forum/wdod-sp2016
-
-DESCRIPTION
+## DESCRIPTION
 
 This 7-week, 2-point course will provide a framework for learning how to develop impactful and socially relevant web applications, with emphasis on presentation of freely-available datasets. It will focus on server-side programming using JavaScript, Node.js with Express, the PostgreSQL database, and cloud-based hosting, and will lightly touch on front-end web development. Students will learn to navigate New York City’s and The United States’ official datasets. The course will be a mixture of lecture and in-class collaborative coding, with weekly programming and reading homework.
 
-Prerequisites: ICM or Networked Media-level programming experience required.
+_Prerequisites: ICM or Networked Media-level programming experience required._
 
-GRADES
+## GRADES
 
 Grades will be determined according to the following breakdown:
 * Regular Assignments 40%
@@ -28,31 +27,31 @@ Grades will be determined according to the following breakdown:
 
 Please see ITP's statement on Pass/Fail which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
-LISTSERV
+## LISTSERV
 
 This class is very participatory in nature and discussions will certainly take place outside of the classroom. One of the primary vehicles for these discussions (as well as administrative issues) will be the listserv.
 
-LAPTOPS AND WIFI
+## LAPTOPS AND WIFI
 
 Laptops and WiFi available are valuable tools for use in the classroom. Unfortunately, they can very easily be a distraction as well. Since this class is technical in nature and we'll likely be trying code and looking at online resources laptops use will likely be very useful. We should though be courteous to one another and when we have outside guests, during discussion or student presentations laptops use should be curtailed.
 
-WEEKLY ASSIGNMENTS
+## WEEKLY ASSIGNMENTS
 
 We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. This is 40% of your grade.
 
-ATTENDANCE
+## ATTENDANCE
 
 Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
-CLASS PARTICIPATION
+## CLASS PARTICIPATION
 
 This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
 
-FINAL PROJECTS
+## FINAL PROJECTS
 
 Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 20% of your grade.
 
-WEEKLY SCHEDULE
+## WEEKLY SCHEDULE
 
 Week 1 (03/24): Course Introduction; Configuring Our Development Environments
 
