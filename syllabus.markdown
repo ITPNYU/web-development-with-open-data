@@ -36,6 +36,10 @@ Please see ITP's statement on Pass/Fail which states that a "Pass" is equivalent
 
 This class is very participatory in nature and discussions will certainly take place outside of the classroom. One of the primary vehicles for these discussions (as well as administrative issues) will be the listserv.
 
+## CURATED SHELF
+
+I have a "curated shelf" down the hall at the paper lab, for at least a month. Consider examining some of the texts.
+
 ## LAPTOPS AND WIFI
 
 Laptops and WiFi available are valuable tools for use in the classroom. Unfortunately, they can very easily be a distraction as well. Since this class is technical in nature and we'll likely be trying code and looking at online resources laptops use will likely be very useful. We should though be courteous to one another and when we have outside guests, during discussion or student presentations laptops use should be curtailed.
