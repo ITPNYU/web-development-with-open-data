@@ -12,6 +12,8 @@
 
 **Listserv:** https://groups.google.com/a/itp.nyu.edu/forum/#!forum/wdod-sp2016
 
+_This syllabus lives at https://github.com/ITPNYU/web-development-with-open-data/blob/master/syllabus.markdown. A printer-friendly version is available at https://gitprint.com/ITPNYU/web-development-with-open-data/blob/master/syllabus.markdown._
+
 ## DESCRIPTION
 
 This 7-week, 2-point course will provide a framework for learning how to develop impactful and socially relevant web applications, with emphasis on presentation of freely-available datasets. It will focus on server-side programming 
