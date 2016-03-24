@@ -14,7 +14,10 @@
 
 ## DESCRIPTION
 
-This 7-week, 2-point course will provide a framework for learning how to develop impactful and socially relevant web applications, with emphasis on presentation of freely-available datasets. It will focus on server-side programming using JavaScript, Node.js with Express, the PostgreSQL database, and cloud-based hosting, and will lightly touch on front-end web development. Students will learn to navigate New York City’s and The United States’ official datasets. The course will be a mixture of lecture and in-class collaborative coding, with weekly programming and reading homework.
+This 7-week, 2-point course will provide a framework for learning how to develop impactful and socially relevant web applications, with emphasis on presentation of freely-available datasets. It will focus on server-side programming 
+using JavaScript, Node.js with Express, the PostgreSQL database, and cloud-based hosting, and will lightly touch on
+front-end web development. Students will learn to navigate New York City’s and The United States’ official datasets. 
+The course will be a mixture of lecture and in-class collaborative coding, with weekly programming and reading homework.
 
 _Prerequisites: ICM or Networked Media-level programming experience required._
 
@@ -67,4 +70,6 @@ Week 6 (04/28): Accepting User-Submitted Data; Advanced Node.js and Express
 
 Week 7 (05/05): Final Presentations
 
-I am happy for the opporunity to teach this new and exciting class to you. We are on this journey together. Please be in touch for any reason you see fit. —James Cropcho
+===
+
+_I am happy for the opporunity to teach this new and exciting class to you. We are on this journey together. Please be in touch for any reason you see fit. —James Cropcho_
