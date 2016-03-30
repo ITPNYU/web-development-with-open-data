@@ -1,8 +1,4 @@
-# Web Development with Open Data
-
 **Spring 2016 Semester**
-
-**Interative Telecommunications Program, New York University**
 
 **Instructor:** James Cropcho (james.cropcho@nyu.edu)
 
