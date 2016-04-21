@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <form action="/itp-students" method="post">
+      <div>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name" />
+      </div>
+
+      <div>
+        <label for="handedness">Handedness:</label>
+        <input type="text" name="handedness" id="handedness" />
+      </div>
+
+      <div>
+        <button type="submit">Enter New ITP Student Record</button>
+      </div>
+    </form>
+  </body>
+</html>
