@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+
+    <% _.each(itpStudentData, function(student) { %>
+      <div>
+        <%= student.name %>: <%= student.handedness %>
+      </div>
+    <% }); %>
+  </body>
+</html>
